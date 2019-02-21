@@ -17,3 +17,7 @@ If you want to read the complete code of conduct, you can get it [here](https://
 ## How this works ?
 
 The main goal here is to practice our english skills, such as writing, speaking and reading. So, we discuss cool topics via issues with the specific topic tag and after some discussing, a online meetup via Hangouts/Discord/Whatever is scheduled. A meetup schedule creation model is available [here](). Report to an adminstrator, your insterest to schedule a meetup.
+
+## Contact
+
+If you want to help and improve this project. Send me an email at: giovanni.cruz97@hotmail.com . We can discuss about upgrades and improvements for our project!
