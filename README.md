@@ -1,4 +1,4 @@
-# Forum
+# :mega: Forum
 
 Hey, you're welcome! Be confortable to have a good chat with different people about various subjects.
 
